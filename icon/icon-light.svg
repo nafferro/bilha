@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FF5A2A"/><stop offset="1" stop-color="#E8380C"/></linearGradient></defs>
+  <rect width="1024" height="1024" fill="url(#bg)"/>
+  <!-- bottle: handle ring, shoulders, body -->
+  <rect x="402" y="150" width="220" height="120" rx="40" fill="none" stroke="#FFFFFF" stroke-width="44"/>
+  <path d="M332 330 Q332 270 392 270 L632 270 Q692 270 692 330 L752 400 Q782 430 782 480 L782 800 Q782 874 708 874 L316 874 Q242 874 242 800 L242 480 Q242 430 272 400 Z" fill="#FFFFFF"/>
+  <!-- flame -->
+  <path d="M512 430 C600 520 640 580 640 660 C640 735 582 790 512 790 C442 790 384 735 384 660 C384 610 410 572 446 540 C446 590 468 618 494 626 C478 560 486 500 512 430 Z" fill="#FF4210"/>
+</svg>
